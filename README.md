@@ -1,13 +1,13 @@
 # Talkio
 
-This project includes a backend server and a frontend application designed to handle customer data and visualize repeat customer statistics over different time frames. Follow the instructions below to clone, set up, and run both parts of the project.
+Talkio is a communication platform enabling seamless user interactions through chat, video calls, and audio calls. It provides a simple and efficient way to connect and collaborate in real time.
 
 ## Clone the Repository
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/RAUSHANSHARMA74/Full-Stack-Jobs-Search-Assignment.git
+   git clone https://github.com/RAUSHANSHARMA74/Talkio.git
    ```
 
 ## Frontend Setup
